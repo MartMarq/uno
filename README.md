@@ -10,3 +10,4 @@ every day at 0:30 it sets back time by 15 seconds and 500 ms, because my Watchy 
 
 
 You can circle through the watchface by pushing the right buttons. This part of the watchface shows the average of todays steps and the number of steps of the last 6 days.
+![uno](https://github.com/MartMarq/uno/assets/139223739/5c9d804f-127b-401e-92d1-ebec46fcd442)
